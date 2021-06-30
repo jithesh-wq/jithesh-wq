@@ -47,7 +47,7 @@
 
 <p>
     <a href="jitheshtv4@gmail.com"><img
-            src="https://img.shields.io/badge/-jitheshtv4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
      <a href="https://www.instagram.com/ji_th_esh_/"><img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
