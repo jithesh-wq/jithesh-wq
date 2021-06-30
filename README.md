@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/jithesh-wq)
 
-- 📫 How to reach me **jitheshtv4@gmail.com.com**
+- 📫 How to reach me **jitheshtv4@gmail.com**
 
 
 
