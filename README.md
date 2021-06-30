@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-    <a href="jitheshtv4@gmail.com"><img
+    <a href="mailto:jitheshtv4@gmail.com"><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
      <a href="https://www.instagram.com/ji_th_esh_/"><img
