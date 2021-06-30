@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jithesh</h1>
-<h3 align="center">Front End Developer</h3>
 
 
 - 🌱 I’m currently learning **Golang**
