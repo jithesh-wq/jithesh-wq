@@ -18,7 +18,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 <br />
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -45,4 +44,5 @@
 
 <p>
     <a href="jitheshtv4@gmail.com"><img
-            src="https://img.shields.io/badge/-jitheshtv4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+            src="https://img.shields.io/badge/-jitheshtv4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+    </a>
