@@ -38,7 +38,7 @@
 
 <p align="center">
     <img height="180em"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=jithesh-wq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+        src=https://github-readme-streak-stats.herokuapp.com/?user=jithesh-wq&theme=blue-green />
     <img height="180em"
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jithesh-wq&layout=compact&langs_count=8&theme=radical" />
 </p>
