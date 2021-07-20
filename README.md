@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithesh</h1>
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/jithesh-wq),[Gdrive](https://drive.google.com/drive/folders/11W4IEqTHTmVlX_u8XVG362GnI37JxDbb?usp=sharing)
 
